@@ -401,9 +401,11 @@ flutter run
 
 **บันทึกรูปผลการทดลอง**
 ```
+
 บันทึกรูปที่นี่
 ```
 ---
+<img width="363" height="662" alt="image" src="https://github.com/user-attachments/assets/6823d8a2-f92b-4532-8e2c-6968fc5746d4" />
 
 ### การทดลองที่ 2 — Layout Widgets: Column, Row, Container
 
@@ -463,6 +465,15 @@ flutter run
 ```
 บันทึกรูปที่นี่
 ```
+.start
+<img width="365" height="692" alt="image" src="https://github.com/user-attachments/assets/f3cb8128-2653-4b64-baab-11a8c857f88f" />
+.end
+<img width="370" height="702" alt="image" src="https://github.com/user-attachments/assets/d29b6aaa-d85a-4f4b-afa1-b4adade3173a" />
+.spaceBetween
+<img width="366" height="677" alt="image" src="https://github.com/user-attachments/assets/c8b8a5b6-4f4c-4c9f-86df-9bf01d8640de" />
+.spaceEvenly
+<img width="356" height="687" alt="image" src="https://github.com/user-attachments/assets/397e3b3c-27ec-441d-b40d-4405471abcda" />
+
 **✏️ ทดลองแก้ไข D:** ใน Row เพิ่ม Container D สีม่วง ขนาด 80×80 ต่อจาก C
 **บันทึกรูปผลการทดลอง**
 ```
